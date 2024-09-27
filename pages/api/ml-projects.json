@@ -5,7 +5,7 @@
     "image": "https://i.imgur.com/dVJNQDq.jpeg",
     "description": "Using GCP and Power BI to Visualize English Premier League Data from 2009-2024",
     "tags": ["Google-Cloud-Platform", "PowerBI", "Python"],
-    "source_code": "https://github.com/Jnyambok/EPL_dashboard"
+    "source_code": "https://www.novypro.com/project/english-premier-league--2009---2024-fixture-summary-dashboard?source=post_page-----b4e7545bbcfc--------------------------------"
   
   },
   {
@@ -13,81 +13,34 @@
     "name": "AI-text-Summarizer-App",
     "image": "https://private-user-images.githubusercontent.com/49593319/336143021-f04978ba-5773-470c-b36b-b1ad4f65253f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMzAwMzcsIm5iZiI6MTcyNzMyOTczNywicGF0aCI6Ii80OTU5MzMxOS8zMzYxNDMwMjEtZjA0OTc4YmEtNTc3My00NzBjLWIzNmItYjFhZDRmNjUyNTNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDA1NDg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxYzhmZTU2YWE3M2VmZGM3MmEyMDc2YmY4MDliMmRmMmYyYTRlZjNiNzRkZjlkNGQ3YTM4MzgzNzJlMTc5ODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nUjo4iQGYqvw26di5IcsdzHz6QVDi4bCnEaUN9DZz5A",
     "description": "This web application uses the power of Hugging Face's Facebook/bart-large-cnn model to condense lengthy texts into concise summaries.",
-    "tags": ["PyTorch", "Reinforcement-Learning", "Minecraft"],
-    "source_code": "https://github.com/drkostas/Minecraft-AI"
+    "tags": ["JavaScript", "HuggingFace", "NodeJS"],
+    "source_code": "https://github.com/Jnyambok/AI-text-Summarizer-App"
   },
   {
     "id": 3,
-    "name": "3D Semantic Segmentation",
-    "image": "https://imgur.com/NtIvxWG.png",
-    "description": "Semantic Segmentation with Transformers on 3D Medical Images.",
-    "tags": ["PyTorch", "OpenCV", "SegFormer", "Semantic-Segmentation", "Medical-Imaging"],
-    "source_code": "https://github.com/drkostas/3D-Semantic-Segmentation"
+    "name": "Olympics 2024 Azure Data Engineering Pipeline",
+    "image": "/olympics_pic.png",
+    "description": "Data engineering pipeline on Azure that ingests data via Azure Data Factory from a data source, stores it, transforms it on via Azure Data-bricks, stores the transformed data and performs data warehousing via Azure Synapse Analytics.",
+    "tags": ["Azure-DataBricks", "Python", "Azure-DataFactory"],
+    "source_code": "https://github.com/Jnyambok/Olympics-2024-Azure-Data-Engineering-Pipeline"
   },
   {
     "id": 4,
-    "name": "Transformer-based Question Answering using BERT",
+    "name": "Student performance predictor",
     "image": "https://imgur.com/dw21deK.png",
-    "description": "BERT-based question answering/reading comprehension methods on Rinehart Novels.",
-    "tags": ["PyTorch", "SpaCy", "HuggingFace", "Transformers", "BERT"],
-    "source_code": "https://github.com/drkostas/Bert-Question-Answering"
+    "description": "Machine Learning project seeks to predict the math scores of students by assessing various dependent factors through automated ML Training and Deployment to Azure & GitHub Actions",
+    "tags": ["Github-Actions", "Azure-Machine-Learning", "Python", "Flask"],
+    "source_code": "https://github.com/Jnyambok/Student_performance_predictor"
   },
   {
     "id": 5,
-    "name": "Accident Severity Prediction",
-    "image": "https://imgur.com/3w7SKLt.png",
-    "description": "Predicting the severity of car accidents from various attributes.",
-    "tags": ["Pandas", "Scipy", "Bayesian-Optimization", "XGBoost", 
-    "Logistic-Regression", "Neural-Network", "K-Means"],
-    "source_code": "https://github.com/drkostas/accident-severity-prediction"
-  },
-  {
-    "id": 6,
-    "name": "Hybrid Girvan Newman",
-    "image": "https://imgur.com/FcIlWzb.png",
-    "description": "Hybrid Girvan Newman. Code for the `A Distributed Hybrid Community Detection Methodology for Social Networks` paper.",
-    "tags": ["Apache-Spark", "Social-Networks", "Community-Detection", "GraphFrames", "MySQL"],
-    "source_code": "https://github.com/drkostas/HGN",
-    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C"
-  },
-  {
-    "id": 7,
-    "name": "COVID-19 Vaccination Prediction",
-    "image": "https://imgur.com/uXxzBBC.png",
-    "description": "Simultaneous Time Series Forecasting on the global COVID-19 Daily Vaccinations.",
-    "tags": ["Tensorflow", "LSTMs", "Multivariate-Time-Series"],
-    "source_code": "https://github.com/drkostas/covid19-vaccinations-predict"
-  },
-  {
-    "id": 8,
-    "name": "Instagram Likes Prediction",
-    "image": "https://imgur.com/siwQMhc.png",
-    "description": "First attempt on predicting the likes a photo will get on Instagram.",
-    "tags": ["Tensorflow", "OpenCV", "Instagram", "Scraper", "CNN"],
-    "source_code": "https://github.com/drkostas/Insta-Likes-Predict"
-  },
-  {
-    "id": 9,
-    "name": "Reinforcement Learning - Value Iteration",
-    "image": "https://imgur.com/v0s5gPx.png",
-    "description": "Implementation of value iteration algorithm for calculating an optimal MDP policy.",
-    "tags": ["Markov-Decision-Process", "Value-Iteration", "RL"],
-    "source_code": "https://github.com/drkostas/RL-Value-Iteration"
-  },
-  {
-    "id": 10,
-    "name": "Vanilla Numpy CNN",
-    "image": "https://imgur.com/sNrVbbL.png",
-    "description": "A Vanilla Numpy-only Convolutional Neural Network.",
-    "tags": ["Numpy", "CNN", "Vanilla-Implementation"],
-    "source_code": "https://github.com/drkostas/Numpy-CNN"
-  },
-  {
-    "id": 11,
-    "name": "Vanilla Numpy Neural Network",
-    "image": "https://imgur.com/mm29qlX.png",
-    "description": "A Vanilla Numpy-only Feed-Forward Neural Network.",
-    "tags": ["Numpy", "Neural-Network", "Vanilla-Implementation"],
-    "source_code": "https://github.com/drkostas/Numpy-NeuralNet-1"
+    "name": "Azure Automobile Price Prediction",
+    "image": "/azure.png",
+    "description": "Deploying a linear regression model to predict the prices of automobiles through the Azure Platform",
+    "tags": ["Azure-Machine-Learning", 
+    "Linear-Regression"],
+    "source_code": "https://pub.towardsai.net/building-a-simple-linear-regression-model-on-azure-to-predict-car-prices-136080bece24"
   }
+
+
 ]

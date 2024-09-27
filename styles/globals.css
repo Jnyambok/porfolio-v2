@@ -18,22 +18,66 @@
   border: 0.1rem solid rgb(124, 182, 237);
 }
 
-. {
-  border: 0.1rem solid rgb(118, 184, 255);
+.NodeJS {
+  border: 0.1rem solid rgb(13, 250, 49);
 }
 
 .PowerBI {
   border: 0.1rem solid rgb(232, 255, 118);
 }
 
-
-
-
-
-
-.PyTorch:hover {
-  background: rgba(238, 89, 3, 0.25);
+.JavaScript {
+  border: 0.1rem solid rgb(234, 69, 184);
 }
+
+.Azure-DataBricks {
+  border: 0.1rem solid rgb(50, 85, 213);
+}
+
+.Azure-DataFactory {
+  border: 0.1rem solid rgb(0, 0, 0);
+}
+
+.Azure-DataFactory:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+
+.Github-Actions {
+  border: 0.1rem solid rgb(194, 46, 165);
+}
+
+
+.Github-Actions :hover {
+  background: rgb(148, 66, 174, 0.25);
+}
+
+
+.Azure-Machine-Learning {
+  border: 0.1rem solid rgb(52, 157, 203);
+}
+
+.Azure-Machine-Learning:hover {
+  background: rgb(71, 182, 182, 0.25);
+}
+
+.Flask {
+  border: 0.1rem solid rgb(227, 250, 135);
+}
+
+.Flask:hover {
+  background: rgba(227, 250, 135, 0.25);
+}
+
+
+
+
+
+
+
+
+
+
 
 .OpenCV {
   border: 0.1rem solid rgb(50, 85, 213);
@@ -155,11 +199,11 @@
   background: rgba(0, 0, 0, 0.25);
 }
 
-.Logistic-Regression {
+.Linear-Regression {
   border: 0.1rem solid rgb(0, 0, 0);
 }
 
-.Logistic-Regression:hover {
+.Linear-Regression:hover {
   background: rgba(0, 0, 0, 0.25);
 }
 
