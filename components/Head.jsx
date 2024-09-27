@@ -18,7 +18,7 @@ const CustomHead = ({ title }) => {
         content="Julius Nyerere Nyerere."
       />
       <meta property="og:image" content="https://imgur.com/YTNNknY.png" />
-      <meta property="og:url" content="https://gkos.dev" />
+      <meta property="og:url" content="https://www.linkedin.com/in/julius-nyerere/" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );

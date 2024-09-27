@@ -28,7 +28,7 @@ const Bottombar = () => {
         </div>
       </div>
       <div className={styles.container}>
-        <a href="https://www.linkedin.com/in/gkos/" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/in/julius-nyerere/" target="_blank" rel="noopener">
           <div className={styles.section}>
             <LinkedinIcon className={styles.icon} />
             <p>Linkedin</p>
@@ -41,10 +41,7 @@ const Bottombar = () => {
           </div>
         </a>
         <a href="" target="_blank" rel="noopener">
-          <div className={styles.section}>
-            <ScholarIcon className={styles.icon} />
-            <p>Scholar</p>
-          </div>
+
         </a>
         {/* <div className={styles.section}>
           <NextjsIcon className={styles.icon} />
