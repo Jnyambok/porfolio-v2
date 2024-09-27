@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "AI-text-Summarizer-App",
-    "image": "https://private-user-images.githubusercontent.com/49593319/336143021-f04978ba-5773-470c-b36b-b1ad4f65253f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMzAwMzcsIm5iZiI6MTcyNzMyOTczNywicGF0aCI6Ii80OTU5MzMxOS8zMzYxNDMwMjEtZjA0OTc4YmEtNTc3My00NzBjLWIzNmItYjFhZDRmNjUyNTNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDA1NDg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxYzhmZTU2YWE3M2VmZGM3MmEyMDc2YmY4MDliMmRmMmYyYTRlZjNiNzRkZjlkNGQ3YTM4MzgzNzJlMTc5ODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nUjo4iQGYqvw26di5IcsdzHz6QVDi4bCnEaUN9DZz5A",
+    "image": "/ai.png",
     "description": "This web application uses the power of Hugging Face's Facebook/bart-large-cnn model to condense lengthy texts into concise summaries.",
     "tags": ["JavaScript", "HuggingFace", "NodeJS"],
     "source_code": "https://github.com/Jnyambok/AI-text-Summarizer-App"
