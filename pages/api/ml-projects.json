@@ -40,7 +40,17 @@
     "tags": ["Azure-Machine-Learning", 
     "Linear-Regression"],
     "source_code": "https://pub.towardsai.net/building-a-simple-linear-regression-model-on-azure-to-predict-car-prices-136080bece24"
+  },
+  {
+    "id": 6,
+    "name": "Deployment of Virtual Private Cloud on AWS using  Terraform",
+    "image": "/terra.png",
+    "description": "Building A Robust and Efficient AWS Cloud Infrastructure with Terraform and GitLab CI/CD",
+    "tags": ["Terraform", 
+    "GitLab", "AWS"],
+    "source_code": "https://gitlab.com/test-group872640/cicdtf"
   }
+
 
 
 ]

@@ -65,13 +65,21 @@
   border: 0.1rem solid rgb(227, 250, 135);
 }
 
-.Flask:hover {
-  background: rgba(227, 250, 135, 0.25);
+.Terraform:hover {
+  background: rgb(159, 23, 232, 0.25);
 }
 
+.Terraform {
+  border: 0.1rem solid rgb(223, 18, 226);
+}
 
+.GitLab :hover {
+  background: rgb(241, 87, 4, 0.25);
+}
 
-
+.GitLab {
+  border: 0.1rem solid rgb(241, 87, 4);
+}
 
 
 
