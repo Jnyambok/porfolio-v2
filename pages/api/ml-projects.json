@@ -1,28 +1,30 @@
 [
   {
     "id": 1,
-    "name": "EPL Dashboard",
-    "image": "https://i.imgur.com/dVJNQDq.jpeg",
-    "description": "Using GCP and Power BI to Visualize English Premier League Data from 2009-2024",
-    "tags": ["Google-Cloud-Platform", "PowerBI", "Python"],
-    "source_code": "https://www.novypro.com/project/english-premier-league--2009---2024-fixture-summary-dashboard?source=post_page-----b4e7545bbcfc--------------------------------"
-  
+    "name": "Deployment of Virtual Private Cloud on AWS using Terraform",
+    "image": "/terra.png",
+    "description": "Building A Robust and Efficient AWS Cloud Infrastructure with Terraform and GitLab CI/CD",
+    "tags": ["Terraform", 
+    "GitLab", "AWS"],
+    "source_code": "https://gitlab.com/test-group872640/cicdtf"
+
   },
   {
     "id": 2,
+    "name": "Azure Automobile Price Prediction",
+    "image": "/azure.png",
+    "description": "Deploying a linear regression model to predict the prices of automobiles through the Azure Platform",
+    "tags": ["Azure-Machine-Learning", 
+    "Linear-Regression"],
+    "source_code": "https://pub.towardsai.net/building-a-simple-linear-regression-model-on-azure-to-predict-car-prices-136080bece24"
+  },
+  {
+    "id": 3,
     "name": "AI-text-Summarizer-App",
     "image": "/ai.png",
     "description": "This web application uses the power of Hugging Face's Facebook/bart-large-cnn model to condense lengthy texts into concise summaries.",
     "tags": ["JavaScript", "HuggingFace", "NodeJS"],
     "source_code": "https://github.com/Jnyambok/AI-text-Summarizer-App"
-  },
-  {
-    "id": 3,
-    "name": "Olympics 2024 Azure Data Engineering Pipeline",
-    "image": "/olympics_pic.png",
-    "description": "Data engineering pipeline on Azure that ingests data via Azure Data Factory from a data source, stores it, transforms it on via Azure Data-bricks, stores the transformed data and performs data warehousing via Azure Synapse Analytics.",
-    "tags": ["Azure-DataBricks", "Python", "Azure-DataFactory"],
-    "source_code": "https://github.com/Jnyambok/Olympics-2024-Azure-Data-Engineering-Pipeline"
   },
   {
     "id": 4,
@@ -34,23 +36,23 @@
   },
   {
     "id": 5,
-    "name": "Azure Automobile Price Prediction",
-    "image": "/azure.png",
-    "description": "Deploying a linear regression model to predict the prices of automobiles through the Azure Platform",
-    "tags": ["Azure-Machine-Learning", 
-    "Linear-Regression"],
-    "source_code": "https://pub.towardsai.net/building-a-simple-linear-regression-model-on-azure-to-predict-car-prices-136080bece24"
+    "name": "EPL Dashboard",
+    "image": "https://i.imgur.com/dVJNQDq.jpeg",
+    "description": "Using GCP and Power BI to Visualize English Premier League Data from 2009-2024",
+    "tags": ["Google-Cloud-Platform", "PowerBI", "Python"],
+    "source_code": "https://www.novypro.com/project/english-premier-league--2009---2024-fixture-summary-dashboard?source=post_page-----b4e7545bbcfc--------------------------------"
   },
   {
     "id": 6,
-    "name": "Deployment of Virtual Private Cloud on AWS using  Terraform",
-    "image": "/terra.png",
-    "description": "Building A Robust and Efficient AWS Cloud Infrastructure with Terraform and GitLab CI/CD",
-    "tags": ["Terraform", 
-    "GitLab", "AWS"],
-    "source_code": "https://gitlab.com/test-group872640/cicdtf"
+    "name": "Olympics 2024 Azure Data Engineering Pipeline",
+    "image": "/olympics_pic.png",
+    "description": "Data engineering pipeline on Azure that ingests data via Azure Data Factory from a data source, stores it, transforms it on via Azure Data-bricks, stores the transformed data and performs data warehousing via Azure Synapse Analytics.",
+    "tags": ["Azure-DataBricks", "Python", "Azure-DataFactory"],
+    "source_code": "https://github.com/Jnyambok/Olympics-2024-Azure-Data-Engineering-Pipeline"
   }
 
 
 
 ]
+
+
