@@ -8,7 +8,6 @@ const ProjectsPage = ({ ml_projects }) => {
     <>
       <h3>Open Source Projects</h3>
       <br/>
-      <center><h4>Machine Learning</h4></center>
       <hr/>
       <div className={styles.container}>
         {ml_projects.map((project) => (
