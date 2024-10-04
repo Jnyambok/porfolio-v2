@@ -3,10 +3,10 @@
     "id": 1,
     "name": "Deployment of Virtual Private Cloud on AWS using Terraform",
     "image": "/terra.png",
-    "description": "Building A Robust and Efficient AWS Cloud Infrastructure with Terraform and GitLab CI/CD",
+    "description": "Building A Robust and Efficient AWS Cloud Infrastructure with Terraform and GitLab CI/CD mirrored to my GitHub",
     "tags": ["Terraform", 
     "GitLab", "AWS"],
-    "source_code": "https://gitlab.com/test-group872640/cicdtf"
+    "source_code": "https://github.com/Jnyambok/Terraform-CI-CD-Pipeline"
 
   },
   {
