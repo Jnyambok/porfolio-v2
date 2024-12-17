@@ -49,6 +49,14 @@
     "description": "Data engineering pipeline on Azure that ingests data via Azure Data Factory from a data source, stores it, transforms it on via Azure Data-bricks, stores the transformed data and performs data warehousing via Azure Synapse Analytics.",
     "tags": ["Azure-DataBricks", "Python", "Azure-DataFactory"],
     "source_code": "https://github.com/Jnyambok/Olympics-2024-Azure-Data-Engineering-Pipeline"
+  },
+  {
+    "id": 7,
+    "name": "Wine Quality Prediction with AWS EC2 instance and MLFlow",
+    "image": "/mlflow.png",
+    "description": "End to End Machine Learning project that predicts wine quality. The project will be deployed on a EC2 instance and register models with MLFlow",
+    "tags": ["AWS", "Python", "Flask","Github-Actions","MLFlow"],
+    "source_code": "https://dagshub.com/Jnyambok/Wine-Quality-Prediction-with-EC2-instance-and-MLFlow/experiments"
   }
 
 
