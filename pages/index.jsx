@@ -6,8 +6,9 @@ import styles from '../styles/HomePage.module.css';
 
 export default function HomePage() {
   return (
-    <>
+    <> 
       <div className={styles.container}>
+        
         <div className={styles.background}>
           <h1>AI</h1>
           <h1>Research</h1>
